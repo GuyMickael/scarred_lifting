@@ -1,0 +1,42 @@
+export const reviews = [
+  {
+    id: 1,
+    name: "Thomas R.",
+    months: "6 mois de coaching",
+    text: "Evan m'a aidé à passer mon squat de 140 à 185kg en 6 mois. Son analyse technique est chirurgicale — chaque détail est travaillé, rien n'est laissé au hasard.",
+    rating: 5,
+    initials: "TR",
+  },
+  {
+    id: 2,
+    name: "Julien M.",
+    months: "4 mois de coaching",
+    text: "J'avais des douleurs chroniques aux épaules depuis 2 ans. Les retours vidéos d'Evan ont complètement transformé ma technique au développé couché. Fini les douleurs, nouveau PR à la clé.",
+    rating: 5,
+    initials: "JM",
+  },
+  {
+    id: 3,
+    name: "Sébastien L.",
+    months: "8 mois de coaching",
+    text: "La programmation est d'un niveau que je n'avais jamais eu avec d'autres coachs. Chaque bloc est réfléchi, les adaptations en temps réel font la différence en compétition.",
+    rating: 5,
+    initials: "SL",
+  },
+  {
+    id: 4,
+    name: "Maxime D.",
+    months: "3 mois de coaching",
+    text: "Le suivi 1-on-1 dépasse mes attentes. Evan répond rapidement, ajuste le programme dès que nécessaire. On sent qu'il est investi dans ta progression autant que toi.",
+    rating: 5,
+    initials: "MD",
+  },
+  {
+    id: 5,
+    name: "Kevin B.",
+    months: "10 mois de coaching",
+    text: "Passé de simple pratiquant à podium en championnat régional en moins d'un an. La préparation mentale qu'Evan m'a apportée est aussi importante que le physique.",
+    rating: 5,
+    initials: "KB",
+  },
+];

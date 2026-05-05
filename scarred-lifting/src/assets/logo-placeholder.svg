@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <polygon points="40,4 76,22 76,58 40,76 4,58 4,22" fill="#1C1C1E" stroke="#5C6433" stroke-width="2"/>
+  <text x="40" y="52" text-anchor="middle" font-family="Cinzel, serif" font-size="26" font-weight="700" fill="#F0EDE6" letter-spacing="1">SL</text>
+  <line x1="18" y1="40" x2="62" y2="40" stroke="#5C6433" stroke-width="0.8" stroke-opacity="0.5"/>
+</svg>
