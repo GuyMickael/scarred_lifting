@@ -82,7 +82,7 @@ export default function Footer() {
             <InstagramIcon />
           </a>
           <a
-            href="#"
+            href="https://www.tiktok.com/@guts_ed?_r=1&_t=ZN-966kbRXPtbS"
             aria-label="TikTok Scarred Lifting"
             className="text-cream/35 hover:text-kaki-light transition-colors duration-200 p-2"
           >
